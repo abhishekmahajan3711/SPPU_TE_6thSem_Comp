@@ -1,0 +1,23 @@
+select{
+    height :20px;
+    width:400px;
+    font-size:medium;
+}
+option{
+    background-color: rgb(199, 186, 212);
+    color:rgb(0, 0, 0);
+    width:400px;
+    font-size:medium;
+}
+textarea{
+    width:400px;
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items:baseline;
+}
+form p{
+    color:rgb(41, 95, 77)
+}

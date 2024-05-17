@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bank.css" type="text/css"?>
+<bank>
+	<bankinfo>
+		<bankname>BANK OF BARODA</bankname>
+		<branchcode>Pune || Nashik || Mumbai</branchcode>
+	</bankinfo>
+	<accounts>
+    <account>
+			<name>Abhishek Mahajan</name>
+			<number>8080142710</number>
+			<address>Kopargaon</address>
+			<type>Savings</type>
+			<mob>8098584734</mob>
+	</account>   
+    <account>
+        <name>Rahul Sharma</name>
+        <number>9988776655</number>
+        <address>Mumbai</address>
+        <type>Savings</type>
+        <mob>9876543210</mob>
+    </account>
+    <account>
+        <name>Deepika Patel</name>
+        <number>9876543210</number>
+        <address>Ahmedabad</address>
+        <type>Current</type>
+        <mob>8765432109</mob>
+    </account>
+    <account>
+        <name>Amit Singh</name>
+        <number>8765432109</number>
+        <address>Delhi</address>
+        <type>Savings</type>
+        <mob>7654321098</mob>
+    </account>
+    <account>
+        <name>Priya Verma</name>
+        <number>7654321098</number>
+        <address>Jaipur</address>
+        <type>Current</type>
+        <mob>6543210987</mob>
+    </account>
+    <account>
+        <name>Sandeep Kumar</name>
+        <number>6543210987</number>
+        <address>Chandigarh</address>
+        <type>Savings</type>
+        <mob>5432109876</mob>
+    </account>
+    <account>
+        <name>Shreya Gupta</name>
+        <number>5432109876</number>
+        <address>Kolkata</address>
+        <type>Current</type>
+        <mob>4321098765</mob>
+    </account>
+    <account>
+        <name>Vikas Sharma</name>
+        <number>4321098765</number>
+        <address>Lucknow</address>
+        <type>Savings</type>
+        <mob>3210987654</mob>
+    </account>
+    <account>
+        <name>Manisha Singh</name>
+        <number>3210987654</number>
+        <address>Patna</address>
+        <type>Current</type>
+        <mob>2109876543</mob>
+    </account>
+    <account>
+        <name>Rajesh Patel</name>
+        <number>2109876543</number>
+        <address>Gujarat</address>
+        <type>Savings</type>
+        <mob>1098765432</mob>
+    </account>
+    <account>
+        <name>Anjali Reddy</name>
+        <number>1098765432</number>
+        <address>Hyderabad</address>
+        <type>Current</type>
+        <mob>0987654321</mob>
+    </account>
+    <account>
+        <name>Sanjay Verma</name>
+        <number>0987654321</number>
+        <address>Bangalore</address>
+        <type>Savings</type>
+        <mob>9876543210</mob>
+    </account>
+    <account>
+        <name>Neha Gupta</name>
+        <number>9876543210</number>
+        <address>Pune</address>
+        <type>Current</type>
+        <mob>8765432109</mob>
+    </account>
+    <account>
+        <name>Akash Sharma</name>
+        <number>8765432109</number>
+        <address>Chennai</address>
+        <type>Savings</type>
+        <mob>7654321098</mob>
+    </account>
+    <account>
+        <name>Radha Singh</name>
+        <number>7654321098</number>
+        <address>Varanasi</address>
+        <type>Current</type>
+        <mob>6543210987</mob>
+    </account>
+</accounts>
+
+</bank>
